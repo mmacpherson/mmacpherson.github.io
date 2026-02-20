@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Mike Macpherson
 ---
 
 I build things with data.
