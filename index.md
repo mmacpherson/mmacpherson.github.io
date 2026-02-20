@@ -14,4 +14,4 @@ I build things with data.
 
 - [devano.ai](https://devano.ai) — Our biomedical data + AI company.
 - [finedataproducts.com](https://finedataproducts.com) — Occasional blogs and demos.
-- [linkedin](https://www.linkedin.com/in/mmacpherson)
+- [linkedin](https://www.linkedin.com/in/mike-macpherson-7477b847/)
