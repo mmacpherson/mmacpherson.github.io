@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I build things with data.
+Makes things from data.
 
 ## open source projects
 
