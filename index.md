@@ -7,7 +7,7 @@ Makes things from data.
 ## open source projects
 
 - [tenforty](https://github.com/mmacpherson/tenforty) — A Python library for computing US federal and state taxes, and evaluating tax scenarios rapidly.
-- [python-lucide](https://github.com/mmacpherson/python-lucide) — All the [Lucide](https://lucide.dev) icons available in Python without any JS, which we use to power [semantic icon search](https://mmacpherson.github.io/python-lucide/) in the browser.
+- [python-lucide](https://github.com/mmacpherson/python-lucide) — All the [Lucide](https://lucide.dev) icons available in Python, no JS required. Also powers [semantic icon search](https://mmacpherson.github.io/python-lucide/), right in your browser.
 - [s1500d](https://mmacpherson.github.io/s1500d/) — A minimal Rust daemon for one-touch scanning with the Fujitsu ScanSnap S1500.
 
 ## elsewhere
