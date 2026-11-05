@@ -7,7 +7,7 @@ Makes things from data.
 ## open source projects
 
 - [tenforty](https://github.com/mmacpherson/tenforty) — A Python library for computing US federal and state taxes, and evaluating tax scenarios rapidly.
-- [pybiglasso](https://github.com/mmacpherson/pybiglasso) — Lasso and elastic-net logistic regression for data larger than memory, fit straight from disk. A Python port of R's biglasso.
+- [pybiglasso](https://mmacpherson.github.io/pybiglasso/) — Lasso and elastic-net logistic regression for data larger than memory, fit straight from disk. A Python port of R's biglasso.
 - [python-lucide](https://github.com/mmacpherson/python-lucide) — All the [Lucide](https://lucide.dev) icons available in Python, no JS required. Also powers [semantic icon search](https://mmacpherson.github.io/python-lucide/), right in your browser.
 - [s1500d](https://mmacpherson.github.io/s1500d/) — A minimal Rust daemon for one-touch scanning with the Fujitsu ScanSnap S1500.
 
